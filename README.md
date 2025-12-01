@@ -23,7 +23,13 @@
 ## Related Surveys
 
 - Self-supervised learning for geospatial ai: A survey. [[paper](https://arxiv.org/abs/2408.12133)] <br>  *Information Fusion (2025)*
-
+- A review of location encoding for geoai: methods and applications. [[paper](https://arxiv.org/abs/2111.04006)] <br>  *IJGIS (2022)*
+- Spatio-temporal graph neural networks for predictive learning in
+urban computing: A survey. [[paper](https://arxiv.org/abs/2303.14483)] <br>  *IEEE TKDE (2023)*
+- GeoAI for large-scale image analysis and machine
+vision: recent progress of artificial intelligence in geography. [[paper](https://www.mdpi.com/2220-9964/11/7/385)] <br>  *ISPRS International Journal of Geo-Information (2022)*
+- Deep learning for spatio-temporal
+data mining: A survey. [[paper](https://ieeexplore.ieee.org/abstract/document/9204396)] <br>  *IEEE TKDE (2020)*
 
 
 ## Taxonomy Framework
@@ -38,15 +44,15 @@ evolution and classifying methods into single-view, dual-view, and multiple-view
 ## Data Modality Perspective
 - An illustration of concepts including location, location embedding,
 region, and region embedding in geospatial representation learning.
-![dataconcept](data_concept.jpg)
+- <img src="data_concept.jpg" alt="dataconcept" width="200">
 
 -  The usage frequency of data modalities during learning stage across
 four categories in the survey. 
-![data_usage_fre](data_usage_fre.jpg)
+- <img src="data_usage_fre.jpg" alt="data_usage_fre" width="200">
 
 - The dataset usage frequency across cities / countries in relevant papers.
 We summarized the data separately by location and region.
-![data_range](data_range.jpg)
+- <img src="data_range.jpg" alt="data_range" width="200">
 
 
 ## Methodology Perspective
