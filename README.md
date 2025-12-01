@@ -44,69 +44,18 @@ evolution and classifying methods into single-view, dual-view, and multiple-view
 ## Data Modality Perspective
 - An illustration of concepts including location, location embedding,
 region, and region embedding in geospatial representation learning.
-- <img src="data_concept.jpg" alt="dataconcept" width="200">
+- <img src="data_concept.jpg" alt="dataconcept" width="300">
 
 -  The usage frequency of data modalities during learning stage across
 four categories in the survey. 
-- <img src="data_usage_fre.jpg" alt="data_usage_fre" width="200">
+- <img src="data_usage_fre.jpg" alt="data_usage_fre" width="300">
 
 - The dataset usage frequency across cities / countries in relevant papers.
 We summarized the data separately by location and region.
-- <img src="data_range.jpg" alt="data_range" width="200">
+- <img src="data_range.jpg" alt="data_range" width="300">
 
 
 ## Methodology Perspective
-
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  table {
-    font-family: Arial, sans-serif;
-    border-collapse: collapse;
-    width: 100%;
-    font-size: 13px;
-  }
-  
-  td, th {
-    border: 1px solid #dddddd;
-    text-align: left;
-    padding: 8px;
-    vertical-align: top;
-    line-height: 1.5;
-  }
-
-  th {
-    background-color: #f2f2f2;
-    font-weight: bold;
-    text-align: center;
-    vertical-align: middle;
-  }
-
-  /* Style for the merged Category column */
-  .category-cell {
-    background-color: #e6f7ff;
-    font-weight: bold;
-    text-align: center;
-    vertical-align: middle;
-    width: 60px;
-    color: #000;
-  }
-
-  /* Column formatting */
-  .col-abbr { font-weight: bold; white-space: nowrap; }
-  .col-center { text-align: center; }
-  
-  a {
-    color: #0066cc;
-    text-decoration: none;
-  }
-  a:hover {
-    text-decoration: underline;
-  }
-</style>
-</head>
-<body>
 
 <table>
   <thead>
@@ -660,58 +609,6 @@ We summarized the data separately by location and region.
 </body>
 </html>
 
-
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  table {
-    font-family: Arial, sans-serif;
-    border-collapse: collapse;
-    width: 100%;
-    font-size: 12px;
-  }
-  
-  td, th {
-    border: 1px solid #e0e0e0;
-    text-align: left;
-    padding: 8px;
-    vertical-align: top;
-    line-height: 1.4;
-  }
-
-  th {
-    background-color: #f5f7fa;
-    font-weight: bold;
-    text-align: center;
-    vertical-align: middle;
-  }
-
-  /* Category column style */
-  .category-cell {
-    background-color: #e6f7ff;
-    font-weight: bold;
-    text-align: center;
-    vertical-align: middle;
-    width: 70px;
-    color: #0050b3;
-  }
-
-  /* Column specific styling */
-  .col-abbr { font-weight: bold; white-space: nowrap; }
-  .col-center { text-align: center; }
-  
-  /* Link styles - Default Blue */
-  a {
-    color: #0066cc;
-    text-decoration: none;
-  }
-  a:hover {
-    text-decoration: underline;
-  }
-</style>
-</head>
-<body>
 
 <table>
   <thead>
