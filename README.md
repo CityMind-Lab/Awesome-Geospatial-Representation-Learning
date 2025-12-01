@@ -44,19 +44,19 @@ evolution and classifying methods into single-view, dual-view, and multiple-view
 ## Data Modality Perspective
 - An illustration of concepts including location, location embedding,
 region, and region embedding in geospatial representation learning.
-- <img src="data_concept.jpg" alt="dataconcept" width="300">
+- <img src="data_concept.jpg" alt="dataconcept" width="400">
 
 -  The usage frequency of data modalities during learning stage across
 four categories in the survey. 
-- <img src="data_usage_fre.jpg" alt="data_usage_fre" width="300">
+- <img src="data_usage_fre.jpg" alt="data_usage_fre" width="400">
 
 - The dataset usage frequency across cities / countries in relevant papers.
 We summarized the data separately by location and region.
-- <img src="data_range.jpg" alt="data_range" width="300">
+- <img src="data_range.jpg" alt="data_range" width="400">
 
 
 ## Methodology Perspective
-
+### Urban Region Representation Learning
 <table>
   <thead>
   <tr>
@@ -609,7 +609,7 @@ We summarized the data separately by location and region.
 </body>
 </html>
 
-
+### Location Embedding
 <table>
   <thead>
   <tr>
