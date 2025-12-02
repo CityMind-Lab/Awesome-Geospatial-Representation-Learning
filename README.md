@@ -15,8 +15,7 @@
 <!-- :fire::fire::fire: Last Updated on 2024.08.19 :fire::fire::fire: -->
 
 - **2025.11**: Latest update.
-- **2025.2**: Update project.
-- **2024.12**: Initiate project.
+
 
 
 
