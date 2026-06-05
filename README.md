@@ -11,13 +11,6 @@
 
 
 
-## 📢 Latest Updates
-<!-- :fire::fire::fire: Last Updated on 2024.08.19 :fire::fire::fire: -->
-
-- **2025.11**: Latest update.
-
-
-
 
 ## Related Surveys
 
