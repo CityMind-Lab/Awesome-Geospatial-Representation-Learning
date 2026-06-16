@@ -831,3 +831,5 @@ We summarized the data separately by location and region.
 - [Awesome-Multimodal-Urban-Computing](https://github.com/CityMind-Lab/Awesome-Multimodal-Urban-Computing)
 
 - [Awesome-Urban-Foundation-Models](https://github.com/usail-hkust/Awesome-Urban-Foundation-Models)
+
+- [Crime Brasil](https://crimebrasil.com.br): Open Brazilian crime data with bairro-level geocoded incidents (2.99M RS records) + national accidents/violence aggregates — useful as a real-world geospatial benchmark for region/location representation methods.
